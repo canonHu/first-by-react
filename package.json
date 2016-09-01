@@ -1,0 +1,21 @@
+{
+  "name": "cannon",
+  "version": "1.0.0",
+  "description": "awebpack test",
+  "main": "main.js",
+  "scripts": {
+    "test": "a test command"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "canon",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.24.0",
+    "gulp": "^3.9.1",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
